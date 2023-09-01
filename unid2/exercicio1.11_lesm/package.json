@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "par1": "npx ts-node ./src/part1_blsc",
+    "par2": "npx ts-node ./src/part2_blsc"
   },
   "keywords": [],
   "author": "",
