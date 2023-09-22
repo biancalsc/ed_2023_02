@@ -5,4 +5,4 @@ do que n2”. Um programa deve utilizar o bloco switch e o outro deve utilizar i
 Pergunta: Qual dificuldade surgiria caso se desejasse que o programa discriminasse 3 condições (>, < ou =)?
 
 Resposta: A principal dificuldade utilizando a estrutura if-else é que quanto mais atribuições se da para ele mais complexo fica o código, o que dificulta a sua leitura.
-Já usando a estrutura switch case seria até melhor, pois sua estrutura facilida na adição de mais atribuições.
+Já usando a estrutura switch case seria até melhor, pois sua estrutura facilita na adição de mais atribuições.
